@@ -10,6 +10,8 @@ Then open main folder and drag the file "setpath.maxpat" onto the Max MSP icon.
 Open the patch "_Main_synth_control_v3". 
 Follow directions within the Max MSP patch.
 
+More directions on operating patch can be found in the score. 
+Originally configured for a Novation midi keyboard. 
 
 -------------------------------------------------------------------------------
 This is the most recent version of the patch as of 2/24/2021.
