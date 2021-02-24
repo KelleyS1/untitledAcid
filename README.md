@@ -2,7 +2,7 @@
 This Max MSP patch MUST be within your search path. 
 To do this, put the folder "synth_control" in Documents>Max 8>Library.
 
-Then open this folder(synth_control), and drag the file "setpath.maxpat" onto the Max MSP icon. 
+Then open main folder and drag the file "setpath.maxpat" onto the Max MSP icon. 
  - patch will open and will be either Red or Green. 
  - restart Max MSP.
 
